@@ -1,0 +1,11 @@
+body {
+  font-family: "Fredoka", sans-serif;
+}
+
+.perso_bgOrange {
+  background-color: rgb(189, 76, 1);
+}
+
+.perso_bgOrangeDegrade {
+  background: linear-gradient(rgb(189, 76, 1), white);
+}
